@@ -1,5 +1,5 @@
-# erdos_bootcamp_may22_cover_my_meds
- 
+# Erdos Institute - Data Science Bootcamp May22 - CoverMyMeds Corporate Project - Group Drugs4All
+
 ## Problem statement
 
 This project is concerned with predicting the copayment that is expected of a patient for
