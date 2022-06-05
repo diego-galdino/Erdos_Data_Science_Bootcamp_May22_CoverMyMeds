@@ -1,5 +1,8 @@
-# Erdos Institute - Data Science Bootcamp May 22
-# CoverMyMeds Corporate Project - Group Drugs4All
+# Erdos Institute - Data Science Bootcamp Spring 22
+
+This project is a requirement of completion for the Spring 2022 Data Science Bootcamp at the Erdos Institute (https://www.erdosinstitute.org/). This is a corporate project sponsored by CoverMyMeds.
+
+Group Members: Diego Galdino and Wayne Uy
 
 ## Problem statement
 
