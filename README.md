@@ -2,7 +2,7 @@
 
 This project is a requirement of completion for the Spring 2022 Data Science Bootcamp at the Erdos Institute (https://www.erdosinstitute.org/). This is a corporate project sponsored by CoverMyMeds (https://www.covermymeds.com/).
 
-Group Members: Diego Galdino and Wayne Uy
+Group Members: Diego Galdino and Wayne Uy.
 
 ## Problem statement
 
