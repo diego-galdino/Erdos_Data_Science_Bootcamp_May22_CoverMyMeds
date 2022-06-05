@@ -1,4 +1,5 @@
-# Erdos Institute - Data Science Bootcamp May22 - CoverMyMeds Corporate Project - Group Drugs4All
+# Erdos Institute - Data Science Bootcamp May 22
+# CoverMyMeds Corporate Project - Group Drugs4All
 
 ## Problem statement
 
